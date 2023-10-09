@@ -94,3 +94,20 @@ section{
     text-align: center;
 }
 
+table{
+    border-collapse:collapse;
+    background-color: #f8f9fa;
+}
+
+table, tr, td, th{
+    border: 1px solid #a2a9b1;
+}
+
+td, th{
+    padding: 0.2em 0.4em;
+}
+
+th{
+    font-weight: bold;
+    background: #eaecf0;
+}
